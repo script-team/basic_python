@@ -1,4 +1,4 @@
-mport socket
+import socket
 
 host = 'localhost', 12345
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
